@@ -9,3 +9,11 @@ button {
 #add-giphy {
 	margin-top: 5px;
 }
+
+#giphy-view {
+	/*display: inline-flex;*/
+}
+
+img {
+	margin-right: 10px;
+}
