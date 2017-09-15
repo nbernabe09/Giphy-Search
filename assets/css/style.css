@@ -11,9 +11,11 @@ button {
 }
 
 #giphy-view {
-	/*display: inline-flex;*/
+	margin-bottom: 5vh;
 }
 
-img {
+.giphy-pic {
+	float: left;
 	margin-right: 10px;
+	margin-bottom: 10px;
 }
